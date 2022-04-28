@@ -9,3 +9,5 @@ Start the server:
 Once you start it, you can open ``index.html`` in your browser to test the chat.
     
 
+https://user-images.githubusercontent.com/119507/165796231-1d420965-8968-4eff-b6f0-99a3bf05049a.mp4
+
