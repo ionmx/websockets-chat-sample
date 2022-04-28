@@ -1,0 +1,22 @@
+{
+  "name": "websockets-chat-sample",
+  "version": "0.0.1",
+  "description": "Websockets chat sample",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionmx/websockets-chat-sample.git"
+  },
+  "author": "Jonathan Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionmx/websockets-chat-sample/issues"
+  },
+  "homepage": "https://github.com/ionmx/websockets-chat-sample#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
